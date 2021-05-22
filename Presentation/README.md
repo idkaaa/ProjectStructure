@@ -1,0 +1,1 @@
+Presenting involves displaying and receiving information directly to/from users.
